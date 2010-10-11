@@ -1,4 +1,4 @@
-package testpackage;
+package masterbranchpackage;
 
 public class FirstClass {
 		private String firstAtribute;
